@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 ligne à soucis
+=======
+a
+b
+c
+d
+e
+f
+g
+h
+3 virgule 14159 je sais plus apres
+>>>>>>> nouvelle_branche
