@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, I'm starting to get it
+=======
+
+>>>>>>> 851d51a6c561242e18670dd4a88110bb7c7db43f
